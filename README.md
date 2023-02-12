@@ -6,3 +6,8 @@ I was doing research for my project and came across helpful openssl commands. I 
 
 Credit goes to Scott Brady.
 Ref - https://www.scottbrady91.com/openssl/creating-elliptical-curve-keys-using-openssl
+
+
+[remove_ds_store_file.sh]
+
+Provide simple tool to remove .DS_Store files safely.
