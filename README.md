@@ -11,3 +11,10 @@ Ref - https://www.scottbrady91.com/openssl/creating-elliptical-curve-keys-using-
 2. remove_ds_store_file.sh
 
 Provide simple tool to remove .DS_Store files safely.
+
+
+3. change-file-version.sh
+
+Tool to faciliate change file version as part of multiple files in specific directory.
+Eg. SystemData_SYSTEM-A_001_Input.dtl --> SystemData_SYSTEM-A_002_Input.dtl
+
