@@ -23,4 +23,4 @@ Eg. SystemData_SYSTEM-A_001_Input.dtl --> SystemData_SYSTEM-A_002_Input.dtl
 Tool to get Public IP Address using Linux Command Line Interface (CLI). Credit goes
 to Aaron Kili (https://www.tecmint.com/find-linux-server-public-ip-address/).
 
-Similar to Online Tool - https://www.whatismyip.com/
+Similar to Online Tool (https://www.whatismyip.com/)
