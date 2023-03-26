@@ -18,3 +18,9 @@ Provide simple tool to remove .DS_Store files safely.
 Tool to faciliate change file version as part of multiple files in specific directory.
 Eg. SystemData_SYSTEM-A_001_Input.dtl --> SystemData_SYSTEM-A_002_Input.dtl
 
+4. whatismypublicip.sh
+
+Tool to get Public IP Address using Linux Command Line Interface (CLI). Credit goes
+to Aaron Kili (https://www.tecmint.com/find-linux-server-public-ip-address/).
+
+Similar to Online Tool - https://www.whatismyip.com/
